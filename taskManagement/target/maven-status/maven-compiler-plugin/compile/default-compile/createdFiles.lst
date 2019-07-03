@@ -1,0 +1,15 @@
+com\mindtree\taskManagement\entity\Project.class
+com\mindtree\taskManagement\entity\Employee.class
+com\mindtree\taskManagement\config\AppInitilizer.class
+com\mindtree\taskManagement\controller\TaskManagementController.class
+com\mindtree\taskManagement\dao\impl\TaskManagementDaoImpl.class
+com\mindtree\taskManagement\errorUtils\ErrorCodes.class
+com\mindtree\taskManagement\errorUtils\ErrorMessages.class
+com\mindtree\taskManagement\service\impl\TaskManagementServiceImpl.class
+com\mindtree\taskManagement\service\TaskManagementService.class
+com\mindtree\taskManagement\entity\Task.class
+com\mindtree\taskManagement\dao\TaskManagementDao.class
+com\mindtree\taskManagement\config\SpringWebConfig.class
+com\mindtree\taskManagement\vaildator\UserValidator.class
+com\mindtree\taskManagement\config\SpringRootConfig.class
+com\mindtree\taskManagement\exception\RecordNotFoundException.class
